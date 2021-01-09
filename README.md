@@ -29,7 +29,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Android Studio did not allow me to login with my github normally. Instead, I had to enter a token which was something I had not created before.
+Android Studio did not allow me to login with my github normally. Instead, I had to enter a token which was something I had not created before. 
+I also had some issues with the constrains for the buttons because some constraints were automatically applied that messed with the ones I was adding.
 
 ## License
 
