@@ -29,7 +29,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Android Studio did not allow me to login with my github normally. Instead, I had to enter a token which was something I had not created before.
 
 ## License
 
